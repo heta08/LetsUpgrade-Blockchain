@@ -1,0 +1,22 @@
+print("Hello world")
+
+print("hello \
+      python")
+
+print("python's world")
+
+print('Python\'s world')
+
+x=10
+y=20
+print(x)
+print(y)
+print(x>y, x<y, x<=y, x>=y)
+
+print(x+y, x-y, x//y, x/y, x**2, y%x)
+
+
+
+a=x&y
+b=x|y
+print(a, b)
